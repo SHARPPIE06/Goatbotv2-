@@ -1,0 +1,76 @@
+{
+  "commandBanned": {},
+  "envGlobal": {
+    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
+    "goatbotApikey": ""
+  },
+  "envCommands": {
+    "daily": {
+      "rewardFirstDay": {
+        "coin": 100,
+        "exp": 10
+      }
+    },
+    "notification": {
+      "delayPerGroup": 250
+    },
+    "rank": {
+      "deltaNext": 5
+    },
+    "rankup": {
+      "deltaNext": 5
+    },
+    "appstore": {
+      "limitResult": 3
+    },
+    "dhbc": {
+      "reward": 1000
+    },
+    "gay": {
+      "deltaNext": 5
+    },
+    "antiout": {
+      "deltaNext": 5
+    },
+    "info": {},
+    "cumshot": {},
+    "quiz": {
+      "reward": 10000
+    },
+    "blur": {
+      "deltaNext": 5
+    },
+    "ads": {
+      "deltaNext": 5
+    },
+    "datetime": {},
+    "time": {},
+    "cosplay": {},
+    "qr": {},
+    "character": {},
+    "asmit": {},
+    "asmit3": {},
+    "audio": {},
+    "imagine": {}
+  },
+  "envEvents": {
+    "logsbot": {
+      "allow": true
+    }
+  },
+  "commandUnload": [
+    "autoreact.js",
+    "users.js",
+    "resend.js",
+    "encrypt.js",
+    "spam1.js",
+    "bot.js",
+    "0autoban.js",
+    "goibot.js",
+    "info.js",
+    "admin.js"
+  ],
+  "commandEventUnload": [
+    "approval.js"
+  ]
+}

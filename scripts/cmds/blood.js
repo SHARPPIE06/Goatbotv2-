@@ -1,0 +1,110 @@
+function _0x499b(_0x202d9f, _0x172766) {
+    const _0x1b332f = _0x282a();
+    return _0x499b = function (_0x3bd063, _0x1fa953) {
+        _0x3bd063 = _0x3bd063 - (0x42a + 0xd87 * -0x1 + 0xa77);
+        let _0x1d27a2 = _0x1b332f[_0x3bd063];
+        return _0x1d27a2;
+    }, _0x499b(_0x202d9f, _0x172766);
+}
+const _0x465c95 = _0x499b;
+function _0x282a() {
+    const _0xc66f59 = [
+        '1483592rPDSbI',
+        'join',
+        '975260hXOSoo',
+        '{p}{n}\x20que',
+        'ccurred\x20wh',
+        '4576elFhxu',
+        'ps://textp',
+        'textpro',
+        'pro.me',
+        '_key=tanji',
+        'result',
+        'onrender.c',
+        '1.html&api',
+        'ile\x20fetchi',
+        '&&link=htt',
+        '196266QCuIhc',
+        'exports',
+        'threadID',
+        'atsumaARBI',
+        'dy\x20Text\x20Th',
+        'error',
+        'ng\x20respons',
+        'An\x20error\x20o',
+        'data',
+        'reply',
+        'the-froste',
+        '1.0',
+        'ypSod',
+        'axios',
+        'dy\x20Text',
+        '?text=',
+        'getStreamF',
+        '12PLYnMI',
+        'd-glass-94',
+        'blood',
+        '3370941SPsyKt',
+        '2970732rCTocS',
+        '275904zCsIoI',
+        'd-text-on-',
+        'Write\x20Bloo',
+        'om/textpro',
+        'rough\x20text',
+        'get',
+        'utils',
+        'romURL',
+        'Zenitshuag',
+        'njiro-api.',
+        '8793Fridkr',
+        'https://ta',
+        'ro.me/bloo',
+        'sendMessag'
+    ];
+    _0x282a = function () {
+        return _0xc66f59;
+    };
+    return _0x282a();
+}
+(function (_0xef464c, _0x248110) {
+    const _0x4ded4d = _0x499b, _0x245926 = _0xef464c();
+    while (!![]) {
+        try {
+            const _0x9dee7b = -parseInt(_0x4ded4d(0x141)) / (0x2 * -0x4eb + 0x14b7 + -0x1d * 0x60) + parseInt(_0x4ded4d(0x12b)) / (0x89 + 0x17da + 0x1 * -0x1861) * (-parseInt(_0x4ded4d(0x13c)) / (0x1e80 + 0x2 * 0x128 + -0x20cd)) + -parseInt(_0x4ded4d(0x11c)) / (-0x2 * 0xd65 + -0x26b1 + 0x9 * 0x747) + -parseInt(_0x4ded4d(0x11e)) / (0x3 * 0xb65 + -0x750 + -0x1ada) + parseInt(_0x4ded4d(0x140)) / (0x25d9 + -0x5 * -0x8f + -0xd8a * 0x3) + parseInt(_0x4ded4d(0x13f)) / (0x250 + 0x1a77 + -0x1cc0) + -parseInt(_0x4ded4d(0x121)) / (0xc69 + 0x530 + -0x1191) * (-parseInt(_0x4ded4d(0x14b)) / (-0x8d7 + -0x7 * -0x272 + -0x5 * 0x1a6));
+            if (_0x9dee7b === _0x248110)
+                break;
+            else
+                _0x245926['push'](_0x245926['shift']());
+        } catch (_0x33399e) {
+            _0x245926['push'](_0x245926['shift']());
+        }
+    }
+}(_0x282a, -0x1969f + 0x812eb + -0x1e3f5));
+const axios = require(_0x465c95(0x138));
+module[_0x465c95(0x12c)] = {
+    'config': {
+        'name': _0x465c95(0x13e),
+        'version': _0x465c95(0x136),
+        'author': _0x465c95(0x149) + _0x465c95(0x12e) + 'N',
+        'countDown': 0x5,
+        'role': 0x0,
+        'shortDescription': _0x465c95(0x143) + _0x465c95(0x139),
+        'longDescription': _0x465c95(0x143) + _0x465c95(0x12f) + _0x465c95(0x145) + _0x465c95(0x124),
+        'category': _0x465c95(0x123),
+        'guide': { 'en': _0x465c95(0x11f) + 'ry' }
+    },
+    'onStart': async function ({
+        api: _0x4f8d69,
+        event: _0x53c066,
+        args: _0x1b9e5e,
+        message: _0x4ad78b
+    }) {
+        const _0x45df8e = _0x465c95, _0x1e2157 = { 'ypSod': _0x45df8e(0x132) + _0x45df8e(0x120) + _0x45df8e(0x129) + _0x45df8e(0x131) + 'e' };
+        try {
+            const _0x3999bb = _0x1b9e5e[_0x45df8e(0x11d)]('\x20'), _0x18be21 = await axios[_0x45df8e(0x146)](_0x45df8e(0x14c) + _0x45df8e(0x14a) + _0x45df8e(0x127) + _0x45df8e(0x144) + _0x45df8e(0x13a) + _0x3999bb + (_0x45df8e(0x12a) + _0x45df8e(0x122) + _0x45df8e(0x11a) + _0x45df8e(0x142) + _0x45df8e(0x135) + _0x45df8e(0x13d) + _0x45df8e(0x128) + _0x45df8e(0x125) + 'ro')), _0x224421 = { 'attachment': await global[_0x45df8e(0x147)][_0x45df8e(0x13b) + _0x45df8e(0x148)](_0x18be21[_0x45df8e(0x133)][_0x45df8e(0x126)]) };
+            return _0x4f8d69[_0x45df8e(0x11b) + 'e'](_0x224421, _0x53c066[_0x45df8e(0x12d)]);
+        } catch (_0x34eaa5) {
+            console[_0x45df8e(0x130)](_0x34eaa5), _0x4ad78b[_0x45df8e(0x134)](_0x1e2157[_0x45df8e(0x137)]);
+        }
+    }
+};
